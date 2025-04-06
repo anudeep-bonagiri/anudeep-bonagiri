@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Scientist+%F0%9F%92%BB;Financial+Analyst+%F0%9F%92%B0;Researcher+%E2%9C%8A;Hackathon+Organizer+%F0%9F%9A%80;Future+Quant+%F0%9F%93%88;Problem+Solver+%F0%9F%93%9A&center=true&width=500&height=45" />
 </p>
-
 ---
 
 ### 💡 About Me  

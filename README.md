@@ -76,7 +76,8 @@ I'm a high school senior passionate about the intersection of **Computer Science
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anudeep-bonagiri&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anudeep-bonagiri&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-bonagiri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=anudeep-bonagiri&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---

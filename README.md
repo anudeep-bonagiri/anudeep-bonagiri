@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 💡 About Me  
-I'm a high school senior passionate about the intersection of **Computer Science, Business, and Law**. Whether it's building an AI model, organizing a hackathon, or digging into financial dashboards — I love tackling real-world problems.
+I'm a college sophomore passionate about the intersection of **Computer Science, Business, and Law**. Whether it's building an AI model, organizing a hackathon, or digging into financial dashboards — I love tackling real-world problems.
 
 - 👨‍💻 CS + Finance double major incoming (with a Law minor!)
 - 🚀 Researcher at CARE AI Laboratory - Hallucinations in LLMs - University of Texas at San Antonio

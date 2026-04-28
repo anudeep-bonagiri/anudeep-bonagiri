@@ -1,7 +1,7 @@
 # Hi there, I'm Anudeep 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%26+CEO+of+Cruze+%F0%9F%9A%9A;AI+Researcher+at+CARE+AI+%F0%9F%A7%A0;Hackathon+Champion+%F0%9F%8F%86;Neuroscience+%2B+CS+at+UTSA+%F0%9F%94%AC;Building+the+Future+of+Logistics+%F0%9F%8C%90&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%26+CEO+of+Cruze+%F0%9F%9A%9A;AI+Researcher+at+CARE+AI+%F0%9F%A7%A0;3x+Hackathon+Winner+%F0%9F%8F%86;Neuroscience+%2B+CS+at+UTSA+%F0%9F%94%AC;Building+the+Future+of+Logistics+%F0%9F%8C%90&center=true&width=600&height=45" />
 </p>
 
 ---

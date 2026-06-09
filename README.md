@@ -41,10 +41,18 @@ I am a **Computer Science & Neuroscience** student at UTSA, building at the inte
 ---
 
 ### 🚀 Key Projects
-- 🛣️ **Cruze** – Revolutionizing logistics with AI-driven infrastructure.
+- 🛣️ **[Cruze](https://github.com/anudeep-bonagiri/aethervision/blob/main/examples/cruze_perception.py)** – Revolutionizing logistics with AI-driven infrastructure and computer vision perception streams.
+- 🪐 **[AetherVision](https://github.com/anudeep-bonagiri/aethervision)** – Local AI vision agent and range-finder platform running on Apple Silicon GPU (MPS), integrating Microsoft Florence-2, Depth Anything V2, and CLIP.
 - 🏁 **Runner Copilot** – F1 Telemetry Analyzer (1st Place @ Code Quantum Hackathon).
 - 🛠️ **HackKit** – Hackathon management platform deployed across 11+ universities.
 - 📉 **Credora** – Former CTO of a fintech platform (acquired/exited leadership Dec 2025).
+
+---
+
+### 🛠️ Open Source Contributions
+Active contributor to cutting-edge open-source machine learning, causal RL, and agentic framework repositories:
+- 🧬 **[causalrl (PR #7)](https://github.com/raphaelrrcoelho/causalrl/pull/7)** – Improved usability of decision certificate text reporting inside the causal reinforcement learning library.
+- 🌐 **[eGEOagents (PR #7)](https://github.com/mverab/eGEOagents/pull/7)** – Implemented markdown frontmatter isolation and HTML formatting pipelines for Generative Engine Optimization (GEO) agents.
 
 ---
 

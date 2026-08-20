@@ -43,8 +43,8 @@ Most of what's pinned below ships with an evaluation harness, an architecture wr
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**AI/ML** — RAG and hybrid retrieval, agentic frameworks and tool calling, multi-agent systems, transformer fine-tuning, local multimodal inference (MPS/CUDA), retrieval evaluation (recall@k, MRR, nDCG)
-**Systems** — Real-time telemetry pipelines, REST API design, SQL/Postgres, Docker, CI with GitHub Actions
+- **AI/ML** — RAG and hybrid retrieval, agentic frameworks and tool calling, multi-agent systems, transformer fine-tuning, local multimodal inference (MPS/CUDA), retrieval evaluation (recall@k, MRR, nDCG)
+- **Systems** — Real-time telemetry pipelines, REST API design, SQL/Postgres, Docker, CI with GitHub Actions
 
 ---
 
@@ -55,13 +55,5 @@ Most of what's pinned below ships with an evaluation harness, an architecture wr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anudeep-bonagiri&show_icons=true&theme=radical&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-bonagiri&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ⚡ I bring Formula 1 precision to engineering — if it isn't O(1) latency, it's a slow pit stop. 🏎️

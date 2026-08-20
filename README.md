@@ -1,83 +1,67 @@
-# Hi there, I'm Anudeep 👋 
+# Hi, I'm Anudeep 👋
+
+**Computer Science & Neuroscience @ UTSA** — I build agentic AI systems, then measure whether they actually work.
+
+Most of what's pinned below ships with an evaluation harness, an architecture write-up, or both. I'd rather show a retrieval score that dropped than a demo that always wins.
+
+- 🚀 **Founder & CEO @ Cruze** — next-gen transportation & logistics infrastructure.
+- 🧠 **Researcher @ CARE AI Lab** — LLM hallucination behavior and RAG reliability.
+- 🏆 **Grand Prize** — $35,000 Draper Data Science Business Plan Competition (April 2026).
+- 🌍 **Global Finalist** — Red Bull Basement, top 0.4% of 15,000+ applicants.
+- 🏁 **1st Place** — Code Quantum Hackathon (Runner Copilot, F1 telemetry analyzer).
+
+📫 **Open to AI/ML and software engineering internships.**
+[Email](mailto:anudeep.bonagiri@gmail.com) · [LinkedIn](https://linkedin.com/in/anudeep-bonagiri)
+
+---
+
+### 🔭 Featured Work
+
+- **[Interview Insight Search](https://github.com/anudeep-bonagiri/interview-insight-search)** — Semantic search and grounded synthesis over research interview transcripts. Hybrid BM25 + embedding retrieval with Reciprocal Rank Fusion, citations down to the timestamp, and a labeled eval set (recall@k / MRR / nDCG) that fails CI when retrieval quality regresses. [Live demo](https://interview-insight-search.streamlit.app)
+- **[Provenance Guard](https://github.com/anudeep-bonagiri/provenance-guard)** — AI-content provenance backend combining an LLM classifier, stylometry, and lexical signals. Conflict-aware confidence calibration and asymmetric thresholds keep it from falsely accusing human writers; every decision lands in a structured audit log with an appeal path.
+- **[Sync AI](https://github.com/anudeep-bonagiri/self-healing-network)** — Self-healing network intelligence: detects anomalies, predicts failures, and autonomously remediates them through multi-agent reasoning over live telemetry and sentiment streams. Built at HackUTD 2025.
+- **[AetherVision](https://github.com/anudeep-bonagiri/aethervision)** — Local multimodal vision workbench running Florence-2, Depth Anything V2, and CLIP on Apple Silicon GPU (MPS) behind one FastAPI inference server, with an interactive annotation dashboard.
+- **[NeuroSync](https://github.com/anudeep-bonagiri/neuroSync)** — Neuroscience research platform pairing LLM-generated persona insights with interactive 3D neural connectivity visualization (FastAPI + Next.js + Llama 3).
+- **[GrowFi](https://github.com/anudeep-bonagiri/growfi)** — Gamified financial-literacy platform with goal tracking, progression mechanics, and microcredit scoring. Full-stack React/TypeScript + Node/Express, built at HackRice 15.
+
+**Also built:** [TakeMeter](https://github.com/anudeep-bonagiri/takemeter) (fine-tuned DistilBERT classifier with baselines and ablations) · [DJ Agent](https://github.com/anudeep-bonagiri/dj-agent) (agentic RAG with tool calling) · [Lyra](https://github.com/anudeep-bonagiri/lyra-f1-dashboard) (live F1 telemetry + LLM race commentary) · [pathCopier](https://github.com/anudeep-bonagiri/pathCopier) (macOS Finder Quick Action) · HackKit (hackathon management platform, deployed across 11+ universities) · Credora (former CTO, fintech platform)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**AI/ML** — RAG and hybrid retrieval, agentic frameworks and tool calling, multi-agent systems, transformer fine-tuning, local multimodal inference (MPS/CUDA), retrieval evaluation (recall@k, MRR, nDCG)
+**Systems** — Real-time telemetry pipelines, REST API design, SQL/Postgres, Docker, CI with GitHub Actions
+
+---
+
+### 🌱 Open Source Contributions
+
+- **[causalrl (PR #7)](https://github.com/raphaelrrcoelho/causalrl/pull/7)** — improved decision-certificate text reporting in a causal reinforcement learning library.
+- **[eGEOagents (PR #7)](https://github.com/mverab/eGEOagents/pull/7)** — markdown frontmatter isolation and HTML formatting pipelines for generative-engine-optimization agents.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%26+CEO+of+Cruze+%F0%9F%9A%9A;AI+Researcher+at+CARE+AI+%F0%9F%A7%A0;3x+Hackathon+Winner+%F0%9F%8F%86;Neuroscience+%2B+CS+at+UTSA+%F0%9F%94%AC;Building+the+Future+of+Logistics+%F0%9F%8C%90&center=true&width=600&height=45" />
+<img src="https://github-readme-stats.vercel.app/api?username=anudeep-bonagiri&show_icons=true&theme=radical&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-bonagiri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 💡 About Me  
-I am a **Computer Science & Neuroscience** student at UTSA, building at the intersection of **Agentic AI, Logistics, and Neuroplasticity**. As a founder, I'm obsessed with solving high-scale infrastructure problems; as a researcher, I'm focused on making LLMs more reliable.
-
-- 🚀 **Founder & CEO @ Cruze** – Building the next-gen transportation & logistics infrastructure platform.
-- 🏆 **Grand Prize Winner** – $35,000 Draper Data Science Business Plan Competition (April 2026).
-- 🌍 **Global Finalist** – Red Bull Basement (Top 0.4% of 15k+ applicants).
-- 🧠 **Researcher @ CARE AI Lab** – Investigating hallucinations and RAG frameworks in LLMs.
-- 📹 **Content Creator** – Building in public at *anudeepburner* (6.2M+ views on IG).
-
----
-
-### 🛠️ Tech Stack & Expertise
-
-**Core Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-**AI & Engineering**
-* **LLMs:** RAG, Agentic Frameworks, Multi-Agent Systems.
-* **Data Science:** Real-time Telemetry (O(1) latency systems), Predictive Analytics.
-* **DevOps:** Git, Docker, Cloud Infrastructure.
-
----
-
-### 🚀 Key Projects
-- 🛣️ **[Cruze](https://github.com/anudeep-bonagiri/aethervision/blob/main/examples/cruze_perception.py)** – Revolutionizing logistics with AI-driven infrastructure and computer vision perception streams.
-- 🪐 **[AetherVision](https://github.com/anudeep-bonagiri/aethervision)** – Local AI vision agent and range-finder platform running on Apple Silicon GPU (MPS), integrating Microsoft Florence-2, Depth Anything V2, and CLIP.
-- 🏁 **Runner Copilot** – F1 Telemetry Analyzer (1st Place @ Code Quantum Hackathon).
-- 🛠️ **HackKit** – Hackathon management platform deployed across 11+ universities.
-- 📉 **Credora** – Former CTO of a fintech platform (acquired/exited leadership Dec 2025).
-
----
-
-### 🛠️ Open Source Contributions
-Active contributor to cutting-edge open-source machine learning, causal RL, and agentic framework repositories:
-- 🧬 **[causalrl (PR #7)](https://github.com/raphaelrrcoelho/causalrl/pull/7)** – Improved usability of decision certificate text reporting inside the causal reinforcement learning library.
-- 🌐 **[eGEOagents (PR #7)](https://github.com/mverab/eGEOagents/pull/7)** – Implemented markdown frontmatter isolation and HTML formatting pipelines for Generative Engine Optimization (GEO) agents.
-
----
-
-### 📈 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anudeep-bonagiri&show_icons=true&theme=radical&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-bonagiri&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/anudeep-bonagiri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/anudeep.bonagiri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:anudeep.bonagiri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact  
-I love integrating **Formula 1** precision into my engineering—if it's not O(1) latency, it's a slow pit stop. 🏎️💨
-
----
-
-### 🎯 Motto  
-> "Fail fast, learn faster, and build what matters."
+⚡ I bring Formula 1 precision to engineering — if it isn't O(1) latency, it's a slow pit stop. 🏎️

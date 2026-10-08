@@ -94,7 +94,11 @@ I publish my work under open licenses and keep it documented, tested, and reprod
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anudeep-bonagiri/anudeep-bonagiri/output/github-snake-dark.svg" alt="snake animation" width="98%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anudeep-bonagiri/anudeep-bonagiri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anudeep-bonagiri/anudeep-bonagiri/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/anudeep-bonagiri/anudeep-bonagiri/output/github-snake.svg" alt="snake animation over contribution graph" width="98%" />
+</picture>
 
 <br/>
 

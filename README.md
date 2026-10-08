@@ -86,11 +86,7 @@ I publish my work under open licenses and keep it documented, tested, and reprod
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=anudeep-bonagiri&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anudeep-bonagiri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="top langs" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=anudeep-bonagiri&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anudeep-bonagiri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=anudeep-bonagiri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" width="98%" />
+<img width="60%" src="https://streak-stats.demolab.com?user=anudeep-bonagiri&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 
 </div>
 
